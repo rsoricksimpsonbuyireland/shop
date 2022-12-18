@@ -208,6 +208,10 @@ function updateCartTotal2() {
     // 1133rat-6x value
     document.getElementById('entry.39888874').value = String(document.getElementsByClassName('product-quantity-input')[15].value)
     
+    // websitename
+    document.getElementById('entry.1101495060').value = String('IRE')
+
+
     // Total value
     document.getElementById('entry.431486396').value = String(total2)
     
